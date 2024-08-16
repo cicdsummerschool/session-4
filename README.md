@@ -6,9 +6,13 @@ Homework for this session consists of reading a classic document on canary deplo
 
 The term "canary deployment" originated from the historical practice of using canaries in coal mines. 
 
+![Miner in yellow helmet with canary in a cage](./images/canary-1.jpg)
+
 Miners would carry canaries with them because these birds are more sensitive to toxic gases like carbon monoxide. If the canary showed signs of distress or died, it was a warning to the miners that the environment was unsafe. 
 
 In software, a canary deployment involves releasing changes to a small subset of users first to detect any potential issues before rolling out to everyone.
+
+![Canary between two racks for super computers](./images/canary-2.jpg)
 
 ## [Canary Release by Danilo Santos, Thoughtworks](https://martinfowler.com/bliki/CanaryRelease.html)
 
@@ -22,7 +26,7 @@ In this lab you will learn how to implement a deployment pipeline for Cloud Run 
 
 _Note: The content in this lab is associated with the Cloud Skills Boost service.  However, you don't have to pay for the service to follow along with the instructions; you just need your own GCP account._
 
-- If you aren't able to access the content from the link above, a PDF copy of the lab is available here: [Cloud Run Canary Deployments PDF](./cloud-run-canary-deployments-google-cloud.pdf)
+- If you aren't able to access the content from the link above, a PDF copy of the lab is available here: [Cloud Run Canary Deployments PDF](./images/cloud-run-canary-deployments-google-cloud.pdf)
 
 ## [Blue/Green Deployments :: Amazon ECS Workshop](https://ecsworkshop.com/blue_green_deployments/)
 
