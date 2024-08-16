@@ -22,7 +22,7 @@ The article explains the concept of a Canary Release, a strategy for minimizing 
 
 ## [Cloud Run Canary Deployments](https://www.cloudskillsboost.google/focuses/52827?parent=catalog)
 
-In this lab you will learn how to implement a deployment pipeline for Cloud Run that executes a progression of code from developer branches to production with automated canary testing and percentage based traffic management. It is intended for developers and DevOps engineers who are responsible for creating and managing CI/CD pipelines to Cloud Run.
+In this lab you will learn how to implement a deployment pipeline for Cloud Run that executes a progression of code from developer branches to production with automated canary testing and percentage based traffic management.
 
 _Note: The content in this lab is associated with the Cloud Skills Boost service.  However, you don't have to pay for the service to follow along with the instructions; you just need your own GCP account._
 
@@ -36,6 +36,6 @@ The article from the Amazon ECS Workshop explains Blue/Green Deployments, a meth
 
 ## [Deploying an Amazon ECS service using a blue/green deployment](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-blue-green.html)
 
-The AWS documentation provides a detailed guide on implementing Blue/Green Deployments using Amazon ECS and AWS CodeDeploy. It walks through setting up the necessary infrastructure, including load balancers, ECS clusters, and task definitions. The guide also covers the creation of deployment groups and CodeDeploy resources, and how to monitor and manage the deployment process. It ends with instructions on cleaning up resources to avoid unnecessary charges. This comprehensive guide ensures a smooth and controlled deployment process with minimal risk.
+The AWS documentation provides a detailed guide on implementing Blue/Green Deployments using Amazon ECS and AWS CodeDeploy. It walks through setting up the necessary infrastructure, including load balancers, ECS clusters, and task definitions. The guide also covers the creation of deployment groups and CodeDeploy resources, and how to monitor and manage the deployment process. It ends with instructions on cleaning up resources to avoid unnecessary charges.
 
 - Full article [here](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-blue-green.html).
