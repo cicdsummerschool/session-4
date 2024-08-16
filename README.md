@@ -8,7 +8,7 @@ The term "canary deployment" originated from the historical practice of using ca
 
 ![Miner in yellow helmet with canary in a cage](./images/canary-1.jpg)
 
-Miners would carry canaries with them because these birds are more sensitive to toxic gases like carbon monoxide. If the canary showed signs of distress or died, it was a warning to the miners that the environment was unsafe. 
+Miners would carry canaries with them because these birds are more sensitive to toxic gasses like carbon monoxide. If the canary showed signs of distress or died, it was a warning to the miners that the environment was unsafe. 
 
 In software, a canary deployment involves releasing changes to a small subset of users first to detect any potential issues before rolling out to everyone.
 
