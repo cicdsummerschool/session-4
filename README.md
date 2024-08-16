@@ -8,6 +8,13 @@ The article by Martin Fowler explains the concept of a Canary Release, a strateg
 
 - Full article [here](https://martinfowler.com/bliki/CanaryRelease.html).
 
+## [Cloud Run Canary Deployments](https://www.cloudskillsboost.google/focuses/52827?parent=catalog)
+
+In this lab you will learn how to implement a deployment pipeline for Cloud Run that executes a progression of code from developer branches to production with automated canary testing and percentage based traffic management. It is intended for developers and DevOps engineers who are responsible for creating and managing CI/CD pipelines to Cloud Run.
+
+_Note: The content in this lab is associated with the Cloud Skills Boost service.  However, you don't have to pay for the service to follow along with the instructions; you just need your own GCP account._
+
+- Full lab [here](https://www.cloudskillsboost.google/focuses/52827?parent=catalog)
 
 ## [Blue/Green Deployments :: Amazon ECS Workshop](https://ecsworkshop.com/blue_green_deployments/)
 
