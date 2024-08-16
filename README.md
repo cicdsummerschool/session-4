@@ -1,6 +1,6 @@
 # Session 4: A Closer Look at Canary Deployments
 
-Homework for this session consists of reading a classic document on canary deployments and working through (or at least reading through) labs on implementing caranry deployments on Google Cloud Platform (GCP) and Amazon Elastic Container Service (ECS).
+Homework for this session consists of reading a classic document on canary deployments and working through (or at least reading through) labs on implementing canary deployments with Google Cloud Platform (GCP) and Blue-Green deployments with Amazon Elastic Container Service (ECS).
 
 ## Why "Canary"?
 
