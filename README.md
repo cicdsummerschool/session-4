@@ -1,6 +1,6 @@
 # Session 4: A Closer Look at Canary Deployments
 
-Homework for this session consists of reading a classic document on canary deployments and working through (or at least reading through) a couple labs on using Blue-Green deployments with Amazon Elastic Container Service (ECS).
+Homework for this session consists of reading a classic document on canary deployments and working through (or at least reading through) labs on implementing caranry deployments on Google Cloud Platform (GCP) and Amazon Elastic Container Service (ECS).
 
 ## [Canary Release by Danilo Santos, Thougtworks](https://martinfowler.com/bliki/CanaryRelease.html)
 
