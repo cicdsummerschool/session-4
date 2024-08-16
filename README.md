@@ -2,7 +2,7 @@
 
 Homework for this session consists of reading a classic document on canary deployments and working through (or at least reading through) labs on implementing caranry deployments on Google Cloud Platform (GCP) and Amazon Elastic Container Service (ECS).
 
-## [Canary Release by Danilo Santos, Thougtworks](https://martinfowler.com/bliki/CanaryRelease.html)
+## [Canary Release by Danilo Santos, Thoughtworks](https://martinfowler.com/bliki/CanaryRelease.html)
 
 The article by Martin Fowler explains the concept of a Canary Release, a strategy for minimizing risk when deploying new software versions. It involves gradually rolling out the update to a small subset of users before full deployment. This method allows for real-time monitoring and quick rollback if issues arise, making it a safer alternative to deploying across the entire infrastructure at once. The article also discusses strategies like using Phoenix or Immutable Servers and highlights challenges such as managing multiple software versions simultaneously.
 
