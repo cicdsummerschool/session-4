@@ -14,7 +14,7 @@ In this lab you will learn how to implement a deployment pipeline for Cloud Run 
 
 _Note: The content in this lab is associated with the Cloud Skills Boost service.  However, you don't have to pay for the service to follow along with the instructions; you just need your own GCP account._
 
-- Full lab [here](https://www.cloudskillsboost.google/focuses/52827?parent=catalog)
+- If you aren't able to access the content from the link above, a PDF copy of the lab is available here: [Cloud Run Canary Deployments PDF](./cloud-run-canary-deployments-google-cloud.pdf)
 
 ## [Blue/Green Deployments :: Amazon ECS Workshop](https://ecsworkshop.com/blue_green_deployments/)
 
