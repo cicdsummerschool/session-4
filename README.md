@@ -6,13 +6,19 @@ Homework for this session consists of reading a classic document on canary deplo
 
 The term "canary deployment" originated from the historical practice of using canaries in coal mines. 
 
-![Miner in yellow helmet with canary in a cage](./images/canary-1.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cicdsummerschool/session-4/main/images/canary-1.jpg" width=50% /><br>
+  <ins><b><i>Miner in yellow helmet with canary in a cage.</i></b></ins>
+</p>
 
 Miners would carry canaries with them because these birds are more sensitive to toxic gasses like carbon monoxide. If the canary showed signs of distress or died, it was a warning to the miners that the environment was unsafe. 
 
 In software, a canary deployment involves releasing changes to a small subset of users first to detect any potential issues before rolling out to everyone.
 
-![Canary between two racks for super computers](./images/canary-2.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cicdsummerschool/session-4/main/images/canary-2.jpg" width=50% /><br>
+  <ins><b><i>Canary between two racks of super computers.</i></b></ins>
+</p>
 
 ## [Canary Release by Danilo Santos, Thoughtworks](https://martinfowler.com/bliki/CanaryRelease.html)
 
