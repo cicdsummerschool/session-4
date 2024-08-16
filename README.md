@@ -2,6 +2,14 @@
 
 Homework for this session consists of reading a classic document on canary deployments and working through (or at least reading through) labs on implementing caranry deployments on Google Cloud Platform (GCP) and Amazon Elastic Container Service (ECS).
 
+## Why "Canary"?
+
+The term "canary deployment" originated from the historical practice of using canaries in coal mines. 
+
+Miners would carry canaries with them because these birds are more sensitive to toxic gases like carbon monoxide. If the canary showed signs of distress or died, it was a warning to the miners that the environment was unsafe. 
+
+In software, a canary deployment involves releasing changes to a small subset of users first to detect any potential issues before rolling out to everyone.
+
 ## [Canary Release by Danilo Santos, Thoughtworks](https://martinfowler.com/bliki/CanaryRelease.html)
 
 The article explains the concept of a Canary Release, a strategy for minimizing risk when deploying new software versions. It involves gradually rolling out the update to a small subset of users before full deployment. This method allows for real-time monitoring and quick rollback if issues arise, making it a safer alternative to deploying across the entire infrastructure at once. The article also discusses strategies like using Phoenix or Immutable Servers and highlights challenges such as managing multiple software versions simultaneously.
