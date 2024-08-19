@@ -28,13 +28,16 @@ The article explains the concept of a Canary Release, a strategy for minimizing 
 
 ## [Cloud Run Canary Deployments](https://www.cloudskillsboost.google/focuses/52827?parent=catalog)
 
+- _**This lab is being shared as a reference only.  Browse through the steps to get an idea of the process.  Because of changes in the Google Cloud Service, this lab may not be able to be completed successfully (or without encountering lots of errors).**_
+
+- _The content in this lab is associated with the Cloud Skills Boost service.  The lab is intended to be run using a Cloud Skills Boost account.  With that in mind, some of the instructions may not apply to the use of the lab outside of the intended environment._
+
+- _If you encounter a prompt that indicates the lab content is not available, select **Yes, notify me**._
+
+- _If you aren't able to access the content from the link above, a PDF copy of the lab is available here: [Cloud Run Canary Deployments PDF](./images/cloud-run-canary-deployments-google-cloud.pdf).  Note that some of the content in the PDF may be obscured.  Just browse through the document to get an idea of how a canary deployment is implemented using Google Cloud Run._
+
 In this lab you will learn how to implement a deployment pipeline for Cloud Run that executes a progression of code from developer branches to production with automated canary testing and percentage based traffic management.
 
-_Note: The content in this lab is associated with the Cloud Skills Boost service.  The lab is intended to be run using a Cloud Skills Boost account.  With that in mind, some of the instructions may not apply to this use of the lab._
-
-- If you encounter a prompt that indicates the lab content is not available, select **Yes, notify me**.
-
-- If you aren't able to access the content from the link above, a PDF copy of the lab is available here: [Cloud Run Canary Deployments PDF](./images/cloud-run-canary-deployments-google-cloud.pdf).  Note that some of the content in the PDF may be obscured.  Just browse through the document to get an idea of how a canary deployment is implemented using Google Cloud Run.
 
 ## [Blue/Green Deployments :: Amazon ECS Workshop](https://ecsworkshop.com/blue_green_deployments/)
 
